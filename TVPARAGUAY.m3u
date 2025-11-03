@@ -1,5 +1,4 @@
-#EXTM3U
+#EXTINF:-4,TELEFUTURO
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-1 tvg-logo=https://es.wikipedia.org/wiki/Archivo:TelefuturoLogo2022.png group-title="Paraguay", Telefuturo
-https://www.telefuturo.com.py/envivo
 
