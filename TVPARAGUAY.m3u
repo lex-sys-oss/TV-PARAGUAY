@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Telefuturo 
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?k=e208119932c15c3ed8a473fbd6e744b513e2c3287f34b6b1df10aff4adc67783&exp=1762173586
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="[LINK_LOGO_ESPN]" group-title="Deportes Internacional",ESPN
+https://x4bnd7lq.fubohd.com/espn/mono.m3u8?token=20076d06c58eca1d07e333e1942754ffd6a7c04a-95-1762203686-1762185686
 
 
 
